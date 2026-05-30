@@ -1,6 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! <br/> I'm <b>Omar Emad El-Din</b>, a passionate CS student and self-learner from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Cairo, Egypt</b>, currently focused on building solid foundations in Computer Science and Web Development.</p>
+<p>Welcome to my page! <br/> I'm <b>Omar Emad El-Din</b>, a passionate CS student and self-learner from <img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d7560ee1-dd4a-42f9-a040-20a90595b969" />
+" width="13"/> <b>Cairo, Egypt</b>, currently focused on building solid foundations in Computer Science and Web Development.</p>
 
 <h3>Things I'm learning & coding with</h3>
 <p>
